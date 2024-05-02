@@ -1,0 +1,1 @@
+{"version":3,"file":"namecheapConfig.js","sourceRoot":"","sources":["../src/namecheapConfig.ts"],"names":[],"mappings":";;;;;AAAA,gEAA2D;AAE3D,eAAe;AACf,MAAM,MAAM,GAAqB;IAC/B,MAAM,EAAE,kCAAkC;IAC1C,OAAO,EAAE,UAAU;IACnB,QAAQ,EAAE,UAAU;IACpB,QAAQ,EAAE,gBAAgB;CAC3B,CAAC;AAEF,MAAM,GAAG,GAAG,IAAI,sBAAS,CAAC,MAAM,EAAE,IAAI,CAAC,CAAC,CAAE,wCAAwC;AAGlF,kBAAe,GAAG,CAAA"}
